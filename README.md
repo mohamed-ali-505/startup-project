@@ -61,7 +61,7 @@ The main goal is to evaluate the **impact of marketing spend on revenue and prof
 ## 📌 How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <git@github.com:mohamed-ali-505/startup-project.git>
    pip install numpy pandas matplotlib seaborn openpyxl
    jupyter notebook
 
